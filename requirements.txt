@@ -1,0 +1,5 @@
+pymilvus
+pandas
+paddlenlp
+hnswlib
+pybind11
